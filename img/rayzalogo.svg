@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="desenho.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3072"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3067"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3047"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3037"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3021"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3017"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="350"
+     inkscape:cy="788.80716"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3023"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     id="g3023"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1 copiar#1">
+    <path
+       style="fill:#c87137;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 454.27232,448.07589 -15.6875,-2.84375 0,-57.15625 15.6875,0 0,-108.84375 c 0,-7.756 6.24399,-14 14,-14 l 6.3125,0 c 7.756,0 14,6.244 14,14 l 0,108.84375 15.6875,0 0,58.59375 -15.6875,-1.4375 -1.4375,-32.84375 -12.875,0 1.4375,34.28125 -11.4375,-1.4375 0,-35.71875 -7.125,1.4375 -2.875,37.125 z"
+       id="path3035"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3029"
+       y="211.54787"
+       x="221.48804"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Swift;-inkscape-font-specification:Swift"
+       xml:space="preserve"><tspan
+         y="211.54787"
+         x="221.48804"
+         id="tspan3031"
+         sodipodi:role="line">restaurante</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 264.54353,310.52907 6.91958,-15.84656 15.85277,9.79474 5.607,-8.67023 13.00858,9.83247 4.13803,-8.65178 6.37331,-10.53862 88.30915,0.76943 c 4.48459,0.0391 8.12489,-3.53833 8.16396,-8.02292 l 0.0705,-8.09344 c 0.0391,-4.48459 -3.53833,-8.12489 -8.02292,-8.16396 l -189.52406,-1.65132 c -4.48459,-0.0391 -8.12489,3.53833 -8.16396,8.02292 l -0.0705,8.09345 c -0.0391,4.48458 3.53834,8.12488 8.02293,8.16396 l 2.5624,0.0223 c -0.0502,-1.8e-4 -9.31296,0.0126 -9.31296,0.0126 l 13.12146,18.39627 11.27666,-10.18338 7.30768,11.34535 12.73309,-8.7644 11.6273,14.13309 z"
+       id="rect3039"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Camada 1 copiar#3"
+     inkscape:groupmode="layer"
+     id="g3101">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3103"
+       d="m 319.98661,449.50446 -15.6875,-2.84375 0,-57.15625 15.6875,0 0,-108.84375 c 0,-7.756 6.24399,-14 14,-14 l 6.3125,0 c 7.756,0 14,6.244 14,14 l 0,108.84375 15.6875,0 0,58.59375 -15.6875,-1.4375 -1.4375,-32.84375 -12.875,0 1.4375,34.28125 -11.4375,-1.4375 0,-35.71875 -7.125,1.4375 -2.875,37.125 z"
+       style="fill:#c87137;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c87137;fill-opacity:1;stroke:none;font-family:Swift;-inkscape-font-specification:Swift"
+       x="216.20448"
+       y="252.39702"
+       id="text3105"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3107"
+         x="216.20448"
+         y="252.39702">comida na mesa</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3113"
+       d="m 265.9721,307.67193 6.91958,-15.84656 15.85277,9.79474 5.607,-8.67023 13.00858,9.83247 4.13803,-8.65178 6.37331,-10.53862 88.30915,0.76943 c 4.48459,0.0391 8.12489,-3.53833 8.16396,-8.02292 l 0.0705,-8.09344 c 0.0391,-4.48459 -3.53833,-8.12489 -8.02292,-8.16396 L 216.868,258.42974 c -4.48459,-0.0391 -8.12489,3.53833 -8.16396,8.02292 l -0.0705,8.09345 c -0.0391,4.48458 3.53834,8.12488 8.02293,8.16396 l 2.5624,0.0223 c -0.0502,-1.8e-4 -9.31296,0.0126 -9.31296,0.0126 l 13.12146,18.39627 11.27666,-10.18338 7.30768,11.34535 12.73309,-8.7644 11.6273,14.13309 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Camada 1 copiar#2"
+     inkscape:groupmode="layer"
+     id="g3049">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 601.48327,292.07885 -114.08639,-0.67136 c 0.0405,-0.64209 0.14668,-1.2763 0.26987,-1.90688 l -106.37619,0.24816 c -3.06182,0.007 -5.54758,-2.81142 -5.55572,-6.29956 l -0.0406,-17.4062 c -0.008,-3.48815 2.46453,-6.28702 5.52635,-6.29416 l 138.16833,-0.32233 c 2.98001,-0.007 5.3928,2.62937 5.52756,5.98713 6.07511,-1.1187 12.61677,-1.74818 19.44435,-1.76411 31.50855,-0.0735 57.08563,12.6498 57.12245,28.42931 z"
+       id="path3076"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g2999"
+     inkscape:groupmode="layer"
+     inkscape:label="Camada 1 copiar" />
+</svg>
